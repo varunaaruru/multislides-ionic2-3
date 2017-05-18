@@ -1,4 +1,4 @@
-### Install :
+### How to use this repo :
 
 Download nodejs from https://nodejs.org/en/download/current/ and install node and npm
 
